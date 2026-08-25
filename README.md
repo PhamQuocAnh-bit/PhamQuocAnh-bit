@@ -48,14 +48,6 @@ I enjoy working with backend technologies, designing RESTful APIs, working with 
 
 ## 📌 Featured Projects
 
-### 🏦 Banking System
-
-A backend banking system focused on account management, transaction processing, and service-oriented architecture.
-
-**Technologies:** Java, Spring Boot, PostgreSQL, Redis, Docker
-
----
-
 ### 🛒 E-Commerce Platform
 
 A full-featured e-commerce backend with product management, shopping cart, order processing, authentication, and payment integration.
